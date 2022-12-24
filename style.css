@@ -1,0 +1,32 @@
+h1
+{
+    font-family:Lucida Sans; 
+    font-style:normal; 
+    font-weight:100;
+}
+ h4
+ {
+    font-family:cursive; 
+    font-style:normal; 
+    font-weight:100;
+ }
+
+ #camera
+ {
+    width:auto;
+    height:auto; 
+    border-radius: 5%;
+    padding: 5%;
+    box-shadow: 0 6px 8px rgba(2,2,2,0.2);
+ }
+
+ img:hover
+ {
+    border-radius: 140px;
+ }
+
+ img
+ {
+   width: 250;
+   height: 250;
+ }
